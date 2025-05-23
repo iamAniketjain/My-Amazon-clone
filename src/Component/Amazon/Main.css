@@ -1,0 +1,154 @@
+nav{
+    width: 100%;
+    position: relative;
+}
+.navdiv{
+    display: inline-flex;
+    background-color: #0f1111;
+    width: 100%;
+    position: fixed;
+}
+.amazonimage{
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.Deliver{
+    width: 120px;
+    gap: 20px;
+    margin-top: 10px;
+}
+.amazonimage{
+    width: 100px;
+    height: 45px;
+    margin-top: 5px;
+}
+.amazontext{
+    margin: 2px;
+    display: inline-flex;
+}
+.amazonimage{
+    margin: 10px;
+    font-size: 12px;
+    margin-top: 5px;
+}
+.locationicon{
+    margin: 4px;
+    font-size: 14px;
+    font-weight: bold;
+}
+.alltext{
+    width: 660px;
+    display: inline-flex;
+}
+.all{
+     height: 40px;
+     width: 60px;
+    margin-top: 10px; 
+}
+.searchbox{
+    width: 550px;
+    height: 40px;
+    margin-top: 15px;    
+}
+.SearchIcon{
+    height: 40px;
+     width: 40px;
+    margin-top: 10px;
+}
+.flagdiv{
+    margin-top: 20px;
+    position: relative;
+    background-color: #0f1111;
+}
+.flagicon{
+    width: 20px;
+    height: 15px;
+}
+.EN{
+    color: white;
+    margin-left: 5px;
+    margin-bottom: 10px;
+}
+.Hellodiv{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.Hellotext{
+    color: white;
+    font-size: 12px;
+}
+.AccountText{
+    color: wheat;
+    font-size: 14px;
+    font-weight: bold;
+}
+.dropdownIcon{
+    color: white;
+}
+.cartdiv{
+    align-content: center;
+    cursor: pointer;
+}
+.carticon{
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.secdiv{
+    margin-top: 60px;
+    height: 7vh;
+    background-color: #232f3e;
+    display: inline-flex;
+    width: 100%;
+}
+.Baricondiv{
+    margin-left: 20px;
+}
+.Baricon{
+    color: white;
+    margin-top: 10px;
+}
+.bartext{
+    color: white;
+    font-weight: bold;
+}
+.secdivdiv{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.secdivcontent{
+    color: white;
+}
+.products{
+    display: inline-flex;
+    margin-top: 10px;
+}
+.divspace{
+    margin-left: 300px;
+}
+.productimage{
+    height: 250px;
+}
+.textdiv{
+    margin-left: 20px;
+}
+.productaddtocart{
+    background-color: orange;
+    border-radius: 30px;
+    border: none;
+    height: 30px;
+    width: 100px;
+}
+.productaddtocart:hover{
+    cursor: pointer;
+    background-color: #eab308;
+}
+
+
+
+
+
+

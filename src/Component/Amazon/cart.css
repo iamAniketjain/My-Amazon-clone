@@ -1,0 +1,81 @@
+.navbar{
+    position: relative;
+    width: 100%;
+    height: 7vh;
+}
+.navdiv{
+    display: inline-flex;
+    background-color: #0f1111;
+    width: 100%;
+    position: fixed;
+}
+.amazonIcon{
+    margin-left: 10px;
+    margin-bottom: 5px
+}
+.in{
+    margin: 2px;
+    display: inline-flex;
+}
+.Deliver{
+    margin: 10px;
+    font-size: 12px;
+    margin-top: 5px;
+}
+.Location{
+    margin: 4px;
+    font-size: 14px;
+    font-weight: bold;
+}
+.searchdiv{
+    width: 660px;
+    display: inline-flex;
+}
+.all{
+    margin-top: 15px;
+}
+.searchbar{
+    width: 550px;
+    height: 40px;
+    margin-top: 15px;
+}
+.SearchIcon{
+    margin-top: 15px;
+}
+.flag{
+    background-color: #0f1111;
+    margin-top: 20px;
+    position: relative;
+}
+.flagicon{
+    width: 20px;
+    height: 15px;
+}
+.EN{
+    color: white;
+    margin-left: 5px;
+    margin-bottom: 10px;
+}
+.Hello{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.helloText{
+    color: white;
+    font-size: 12px;
+}
+.accounttext{
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+}
+.Helloicon{
+    color: white;
+}
+.cart{
+    align-content: center;
+}
+.carticon{
+    margin-left: 30px;
+    margin-top: 10px;
+}
