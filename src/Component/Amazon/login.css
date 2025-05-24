@@ -9,6 +9,7 @@
     display: flex;
     justify-content: center;
     align-content: center;
+    margin-top: 8vh;
 }
 .card{
     border: 1px solid black;
